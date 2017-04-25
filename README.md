@@ -1,4 +1,7 @@
-# api documentation for  [interpret (v1.0.2)](https://github.com/tkellen/node-interpret)  [![npm package](https://img.shields.io/npm/v/npmdoc-interpret.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-interpret) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-interpret.svg)](https://travis-ci.org/npmdoc/node-npmdoc-interpret)
+# npmdoc-interpret
+
+#### basic api documentation for  [interpret (v1.0.3)](https://github.com/tkellen/node-interpret)  [![npm package](https://img.shields.io/npm/v/npmdoc-interpret.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-interpret) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-interpret.svg)](https://travis-ci.org/npmdoc/node-npmdoc-interpret)
+
 #### A dictionary of file extensions and associated module loaders.
 
 [![NPM](https://nodei.co/npm/interpret.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/interpret)
@@ -30,10 +33,10 @@
     "devDependencies": {},
     "directories": {},
     "dist": {
-        "shasum": "f4f623f0bb7122f15f5717c8e254b8161b5c5b2d",
-        "tarball": "https://registry.npmjs.org/interpret/-/interpret-1.0.2.tgz"
+        "shasum": "cbc35c62eeee73f19ab7b10a801511401afc0f90",
+        "tarball": "https://registry.npmjs.org/interpret/-/interpret-1.0.3.tgz"
     },
-    "gitHead": "e919561a3671c803cda3fe70880ec311b2f8681f",
+    "gitHead": "767213bb4a2c75aadddb1439e8a7d0681f30e3af",
     "homepage": "https://github.com/tkellen/node-interpret",
     "keywords": [
         "cirru-script",
@@ -85,7 +88,8 @@
         "url": "git://github.com/tkellen/node-interpret.git"
     },
     "scripts": {},
-    "version": "1.0.2"
+    "version": "1.0.3",
+    "bin": {}
 }
 ```
 

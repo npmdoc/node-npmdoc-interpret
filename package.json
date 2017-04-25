@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [interpret (v1.0.2)](https://github.com/tkellen/node-interpret) [![npm package](https://img.shields.io/npm/v/npmdoc-interpret.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-interpret) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-interpret.svg)](https://travis-ci.org/npmdoc/node-npmdoc-interpret)",
+    "description": "#### basic api documentation for  [interpret (v1.0.3)](https://github.com/tkellen/node-interpret)  [![npm package](https://img.shields.io/npm/v/npmdoc-interpret.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-interpret) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-interpret.svg)](https://travis-ci.org/npmdoc/node-npmdoc-interpret)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "interpret": "*",
@@ -35,5 +35,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "2017.4.26"
 }
